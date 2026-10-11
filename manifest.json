@@ -1,0 +1,33 @@
+{
+  "manifest_version": "1.0",
+  "org": "samuelcolvin",
+  "repo": "pytest-speed",
+  "versions": [
+    {
+      "commit": "21b84fa1ae64c4616cb681551378688e7d18161d",
+      "parsed_at": "2026-10-11T21:51:23.866566+00:00",
+      "filetree": "filetree/21b84fa1ae64c4616cb681551378688e7d18161d.nq.gz",
+      "blobs": [
+        "blob/684296658577cfe5712e01d359c380b7705f7b4f.nq.gz",
+        "blob/39fd7ae421f3762ee16b628c4e8187c025ca6089.nq.gz",
+        "blob/6663a345eea237603d601b8274acda0f53287cc0.nq.gz",
+        "blob/4d2f89a74804fd67a1d2c2bfeecdad32ff0b0a3d.nq.gz",
+        "blob/ccba6151b67b3f631d57d900efefd87d4fa35498.nq.gz",
+        "blob/f95e9fc118e9b823d13dcfd6f9cb986471ef083e.nq.gz",
+        "blob/5d92b718bbafe597398dd60883288ad8f33b76cc.nq.gz",
+        "blob/242360d85234cf912505d9514d6c75db52d33178.nq.gz",
+        "blob/0236a25979a7f0663542e7083df868208ee9e239.nq.gz",
+        "blob/70d8b3c5e316a3de3f74cd1e70b99348a5a36802.nq.gz",
+        "blob/5b417432df90728cc8a86939e99e2c1fe6091663.nq.gz",
+        "blob/53588569dd718848aec1fadd43edeb1197b8fb2e.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/62c7eb8f7ae00e4e3d4fc8a9636815a141e57491.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
